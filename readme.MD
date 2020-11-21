@@ -20,7 +20,7 @@
  <br>
  <br>
 
-  <a href="https://www.freepik.com/vectors/logo">Logo vector created by freepik - www.freepik.com</a>
+  <a href="https://www.freepik.com/vectors/logo">Logo | FreePik</a>
 
   <br>
   <br>
