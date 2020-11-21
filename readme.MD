@@ -23,8 +23,6 @@
   <a href="https://www.freepik.com/vectors/logo">Logo | FreePik</a>
 
   <br>
-  <br>
-  <br>
 
  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/rparbez)
  <br/>
